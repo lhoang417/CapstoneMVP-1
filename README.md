@@ -26,6 +26,5 @@
 
 
 ## Future Features: 
-    - Library data will be mapped visually (D3)
-        * More popular artists/genre/songs will be represented with larger text, warmer colors or proximity to focal points
-    - 
+   - Library data will be mapped visually (D3)
+        * More popular artists/genre/songs will be represented with larger text, warmer colors or proximity to focal points 
