@@ -22,7 +22,7 @@
     >Selecting a specific artis will then populate the screen with albums or songs from that artist
     - Albums: Albums specific to the user selected artist, with songs to sample
     - Songs: Songs specific to the user selected artist/album
-* Intuitive button navigation to dive deeper into the library or back up to a layer
+* Intuitive button navigation to dive deeper into the library or back up to a previous layer
 
 
 ## Future Features: 
